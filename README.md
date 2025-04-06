@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sh3ydiii
-- ⚡ DOB: 26/09/07
+- ✨ DOB: 26/09/07
 - 👀 I’m interested in programming,sport,music
 - 🌱 I’m currently learning c++,js
 - 💞️ I’m looking to collaborate on project
