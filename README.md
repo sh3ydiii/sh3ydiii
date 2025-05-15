@@ -13,7 +13,8 @@
 - 🔭 I’m currently working on backend projects & Telegram bots  
 - 💬 Ask me about **Node.js, Express, MongoDB, MySQL, Telegram bots**  
 - ⚡ Fun fact: I love creating useful tools and automations  
-- 🎯 Goal: Build my own SaaS/startup in the near future  
+- 🎯 Goal: Build my own SaaS/startup in the near future
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32405%26project%3D%26in=2592000000">
 
 ---
 
@@ -36,7 +37,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sh3ydiii&show_icons=true&theme=default&hide_title=true" alt="Egor's GitHub stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh3ydiii&layout=compact&theme=default" />
-  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32405%26project%3D%26in=2592000000">
 </p>
 
 ---
@@ -46,6 +46,7 @@
 <p align="center">
   <a href="https://t.me/codinginmyheart" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:sh3ydiii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 </p>
 
 ---
