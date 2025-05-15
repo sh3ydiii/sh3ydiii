@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sh3ydiii&show_icons=true&theme=default&hide_title=true" alt="Egor's GitHub stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh3ydiii&layout=compact&theme=default" />
-  [![CodeTime Badge](https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32405%26project%3D%26in=2592000000)](https://codetime.dev)
+  <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32405%26project%3D%26in=2592000000">
 </p>
 
 ---
