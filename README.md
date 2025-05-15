@@ -14,6 +14,8 @@
 - 💬 Ask me about **Node.js, Express, MongoDB, MySQL, Telegram bots**  
 - ⚡ Fun fact: I love creating useful tools and automations  
 - 🎯 Goal: Build my own SaaS/startup in the near future
+
+  
   <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=plastic&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D32405%26project%3D%26in=2592000000">
 
 ---
